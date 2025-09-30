@@ -9,7 +9,7 @@ It covers defining routes, working with nested routes and parameters, programmat
 
 ## 🚀 Features
 
-- Set up routing in a React app using **React Router v6**.  
+- Set up routing in a React app
 - Define routes and their corresponding components.  
 - Implement **nested routes** and **route parameters**.  
 - Use **programmatic navigation** and pass data via URL parameters.  
